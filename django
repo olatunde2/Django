@@ -1,0 +1,11 @@
+pip install Django 
+
+Django-admin startproject PROJECT_NAME
+
+puthon manage.py runserver
+
+Django-admin startapp App_NAME
+
+add App_NAME to Settings.py 
+
+create a views as views.py
